@@ -1,0 +1,20 @@
+#prints welcome message
+
+#Title? (description of what title is)
+#if no, continue
+#if yes, Name of Game?
+#store game_title
+
+#Form? (description of what form is Example!)
+if no, continue
+If yes...
+-> How many fields do you want?
+#store number
+-> What is the name of f[x]?
+#store each nam in list form.fields
+
+#List? (description and example)
+if no, continue
+if yes...
+-> How many fields do you want?
+-> 
